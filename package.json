@@ -7,6 +7,12 @@
     "start": "next start",
     "lint": "next lint"
   },
+  "keywords": [],
+  "author": "SnollyGoster",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dickydamaraa/tickpricediscord"
+  },
   "dependencies": {
     "react": "^18",
     "react-dom": "^18",
